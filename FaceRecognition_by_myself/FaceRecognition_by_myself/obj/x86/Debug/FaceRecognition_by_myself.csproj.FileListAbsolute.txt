@@ -1,0 +1,45 @@
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\FaceRecognition_by_myself.exe
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\FaceRecognition_by_myself.pdb
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.exe
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.pdb
+C:\Documents and Settings\Administrator\桌面\毕业设计\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.Form1.resources
+F:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.exe
+F:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.pdb
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.dll
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.UI.dll
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.Util.dll
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.csprojResolveAssemblyReference.cache
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.Form1.resources
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.csproj.GenerateResource.Cache
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.ML.dll
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\ZedGraph.dll
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.ML.xml
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.xml
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.UI.xml
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.Util.xml
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\FaceRecognition.exe
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\FaceRecognition.pdb
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition.exe
+G:\Courseware\研一下\美团竞赛\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition.pdb
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition.exe
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition.pdb
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\FaceRecognition.exe
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\FaceRecognition.pdb
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.xml
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.ML.xml
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.CV.UI.xml
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\bin\Debug\Emgu.Util.xml
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.csprojResolveAssemblyReference.cache
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.Form1.resources
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+J:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition_by_myself.csproj.GenerateResource.Cache
+F:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition.exe
+F:\FaceRecognition_by_myself\FaceRecognition_by_myself\obj\x86\Debug\FaceRecognition.pdb
